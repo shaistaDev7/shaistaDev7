@@ -1,4 +1,4 @@
-<h1>I'm Shaista Zulfiqar</h1>👋
+<h1>I'm Shaista Zulfiqar</h1>
 
 <h2>About Me</h2>
 
