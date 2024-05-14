@@ -1,6 +1,6 @@
-#I'm Shaista Zulfiqar 👋
+<h1>I'm Shaista Zulfiqar</h1>👋
 
-##About Me
+<h2>About Me</h2>
 
 - 🔭 I’m currently working as Machine Learning Enginner
 - 🌱 I’m currently learning Data Structure and Analysis
