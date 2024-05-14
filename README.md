@@ -3,7 +3,7 @@
 <h2>About Me</h2>
 
 - 🔭 currently working as Machine Learning Enginner
-- 👨‍🏫 Offers volunteer teaching in Python with Karel at <a [href="shaistazulfiqar61@gmail.com](https://www.linkedin.com/feed/update/urn:li:activity:7186485415325876225/)">Standford University</a>
+- 👨‍🏫 Offers volunteer teaching in Python with Karel at <a href="https://www.linkedin.com/feed/update/urn:li:activity:7186485415325876225/">Standford University</a>
 - 🌱 currently learning DSA with Leetcode
 - 🌱 Actively participating in coding competitions & hackathons.
 - 🌱 PhD candidate aiming to pursue studies in the United States to advance in the Data Science.
