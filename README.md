@@ -118,24 +118,6 @@
     </td>
 </tr>
 
-<tr>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableue"  width="150px" height="100px">
-    </td>
-    <td align='center' width="190">
-        <img src="	https://upload.wikimedia.org/wikipedia/commons/3/3b/Overleaf_logo.svg" alt="Overleaf"  width="150px" height="100px">
-    </td>
-    <td align='center'>
-        <img src="./Images/oop.png" alt="OOP"  width="150px" height="100px">
-    </td>
-    <td align='center'>
-        <img src="./Images/java.webp" alt="JAVA"  width="150px" height="100px">
-    </td>
-     <td align='center'>
-        <img src="./Images/DSA.jpg" alt="Data Structure & Algorithms"  width="150px" height="100px">
-    </td>
-</tr>
-
 </table>
 
 <br />
