@@ -91,7 +91,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_logo.svg" alt="Google-Cloud"  width="150px" height="100px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white.png" alt="Leetcode"  width="150px" height="100px">
     </td>
     <td align='center'>
         <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github"  width="150px" height="100px">
