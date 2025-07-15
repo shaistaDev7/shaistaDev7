@@ -60,7 +60,7 @@
         <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="Pycharm"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="https://avatars.githubusercontent.com/u/123131326?s=200&v=4" alt="Cursor AI"  width="150px" height="100px">
+        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git"  width="150px" height="100px">
     </td>
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML"  width="150px" height="100px">
@@ -80,18 +80,18 @@
         <img src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/img/icon-white.svg" alt="FastAPI"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="	https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Streamlit"  width="150px" height="100px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Streamlit_logo_mark.svg/512px-Streamlit_logo_mark.svg.png" alt="Streamlit"  width="150px" height="100px">
     </td>
 </tr>
 <tr>
     <td align='center'>
-        <img src="	https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS"  width="150px" height="100px">
+        <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="https://azurecomcdn.azureedge.net/cvt-5cc4a0b33dd9e71183385a89a1e1e30372e51f04eb1d2fd87ed9f8ee92455b8b/images/page/services/azure-functions/hero-image.svg" alt="Azure"  width="150px" height="100px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="	https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_logo.svg" alt="Google-Cloud"  width="150px" height="100px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_logo.svg" alt="Google-Cloud"  width="150px" height="100px">
     </td>
     <td align='center'>
         <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github"  width="150px" height="100px">
