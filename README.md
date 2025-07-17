@@ -80,7 +80,7 @@
   <img src="https://github.com/shaistaDev7/shaistaDev7/blob/main/fastapi.png" alt="FastAPI" width="150px" height="100px">
 </td>
     <td align='center'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Streamlit_logo.png/768px-Streamlit_logo.png" alt="Streamlit" width="150px" height="100px">
+  <img src="https://github.com/shaistaDev7/shaistaDev7/blob/main/streamlit.png" alt="Streamlit" width="150px" height="100px">
 </td>
 </tr>
 <tr>
