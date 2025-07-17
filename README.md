@@ -167,8 +167,24 @@
   </table>
 </div>
 
-<h2>My GitHub Stats</h2>
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=shaistaDev7&show_icons=true&locale=en&theme=tokyonight" alt="Shaista's GitHub Stats" width="300"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaistaDev7&theme=tokyonight" alt="Mustafa's GitHub Streak" width="250"/>
-  </p>
+<h2 align="left">📊 GitHub Stats</h2>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=shaistaDev7&show_icons=true&locale=en&theme=tokyonight" alt="Shaista's GitHub Stats" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaistaDev7&theme=tokyonight" alt="Shaista's GitHub Streak" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaistaDev7&layout=compact&theme=tokyonight" alt="Top Languages" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaistaDev7&theme=react-dark" alt="Contribution Graph" width="400"/>
+    </td>
+  </tr>
+</table>
+
