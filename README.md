@@ -120,13 +120,49 @@
 
 </table>
 
-<br />
-<br />
-## Connect with me🤝:
-<div align="center">
-    <a href="https://www.linkedin.com/in/shaistaz61/" target="_blank"><img src="https://img.shields.io/badge/-Shaista Zulfiqar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a target="_blank" href="mailto:shaistazulfiqar61@gmail.com"><img src="https://img.shields.io/badge/-shaistazulfiqar61@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="https://leetcode.com/u/shaistadev7/" target="_blank"><img src="https://img.shields.io/badge/-Shaista Zulfiqar-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
-    <a href="https://lablab.ai/u/@ShaistaDev7" target="_blank"><img src="https://img.shields.io/badge/-LabLab Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
-</div>
+<h2><i>Connect with me 🤝</i></h2>
 
+<div style="overflow-x:auto;">
+  <table>
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Email</th>
+        <th>LinkedIn</th>
+        <th>GitHub</th>
+        <th>LeetCode</th>
+        <th>LabLab</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Shaista Zulfiqar</td>
+        <td>
+          <a href="mailto:shaistazulfiqar65@gmail.com" target="_blank">
+            shaistazulfiqar65@gmail.com
+          </a>
+        </td>
+        <td>
+          <a href="https://www.linkedin.com/in/shaistaz61/" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-0e76a8.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/shaistaDev7" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-171515.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge">
+          </a>
+        </td>
+        <td>
+          <a href="https://leetcode.com/u/OkbuMOJ4WD/" target="_blank">
+            <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge">
+          </a>
+        </td>
+        <td>
+          <a href="https://lablab.ai/u/@ShaistaDev07" target="_blank">
+            <img src="https://img.shields.io/badge/LabLab-3B5998.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8Y2lyY2xlIGN4PSIyNTYiIGN5PSIyNTYiIHI9IjI1NiIgZmlsbD0iI0ZGRiIvPgo8cGF0aCBkPSJNNDE2IDM0NkgzNzZMMzU1LjggMzA1LjRDMzI3LjIgMzI1LjYgMjk0LjQgMzM2IDI1NiAzMzZDMTc2LjggMzM2IDExMiAzNzcuNiAxMTIgNDI2SDE1MkMxNTIgMzgzLjIgMTk1LjYgMzU2IDI1NiAzNTZDMjkwLjQgMzU2IDMyMi4yIDM0Ni44IDM0Ni41IDM0MEwzMjIgMzE2SDE2MEwxMTYgMjcyVjE2MEwxNjAgMTE2SDE0NFY3MkgxNzZDMjI0LjggNzIgMjY0LjggMTA0IDI3OC44IDE0OEgyNzguNkwzMzYgMTkyTDM4Mi44IDE0OEgzODNjLTIuNC03LjItMy44LTE1LjItMy44LTIzLjJDMzc5LjIgODIuNCA0MjQuNCA0OCA0NzIgNDhWNDhDNDE2IDQ4IDM3MiAzMS4yIDM2MCAxNmMwIDEwLjQgMTAuNCAyOCAxNiA0MkgzODlMMzY1LjIgNzIuOEMzNDkuNiA5MS4yIDMzNi44IDExNC44IDMzNi44IDEzOEMzMzYuOCAxNzcuNiAzNzcuNiAyMTYgNDI0IDIxNkg0NzJWNDYwQzQ3MiA0ODguOCA0NTIuOCA1MTIgNDI2IDUxMkMyOTIuNCA1MTIgMTk5LjIgNDI4IDE5OS4yIDMxMi4yQzE5OS4yIDMwNy44IDE5OS40IDMwMy40IDIwMC4yIDI5OUwxNjggMjY2LjhMMjAwLjIgMjM0LjRDMTk4LjQgMjI3LjIgMTk3LjIgMjE5LjggMTk3LjIgMjEyQzE5Ny4yIDE3NS40IDIyNC44IDE1MiAyNTYgMTUyQzI3My44IDE1MiAyOTEuMiAxNTYuNCAzMDYuOCAxNjUuOEwzNTIgMTMySDI5Ni44QzI5NC4yIDEyOC4yIDI5MiAxMjMuOCAyOTAgMTE5TDI4NS42IDExMkwzNTYgNzJMMzk4LjQgMTEySDQxNkw0MTYgMzQ2WiIgZmlsbD0iIzAwMCIvPgo8L3N2Zz4=" alt="LabLab Badge">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
