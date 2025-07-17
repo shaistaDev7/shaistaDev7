@@ -1,4 +1,4 @@
-<h1>I'm Shaista Zulfiqar</h1>
+<h1>Trainer, AI Researcher and Developer</h1>
 
 <h2>About Me</h2>
 
