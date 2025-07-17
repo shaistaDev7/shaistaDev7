@@ -77,11 +77,11 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/img/icon-white.svg" alt="FastAPI"  width="150px" height="100px">
-    </td>
+  <img src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/img/icon.png" alt="FastAPI" width="150px" height="100px">
+</td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Streamlit_logo_mark.svg/512px-Streamlit_logo_mark.svg.png" alt="Streamlit"  width="150px" height="100px">
-    </td>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Streamlit_logo.png/768px-Streamlit_logo.png" alt="Streamlit" width="150px" height="100px">
+</td>
 </tr>
 <tr>
     <td align='center'>
@@ -91,7 +91,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white.png" alt="Leetcode"  width="150px" height="100px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="150px"    height="100px">
     </td>
     <td align='center'>
         <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github"  width="150px" height="100px">
