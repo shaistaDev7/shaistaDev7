@@ -77,7 +77,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL"  width="150px" height="100px">
     </td>
     <td align='center'>
-  <img src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/img/icon.png" alt="FastAPI" width="150px" height="100px">
+  <img src="https://github.com/shaistaDev7/shaistaDev7/blob/main/fastapi.png" alt="FastAPI" width="150px" height="100px">
 </td>
     <td align='center'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Streamlit_logo.png/768px-Streamlit_logo.png" alt="Streamlit" width="150px" height="100px">
