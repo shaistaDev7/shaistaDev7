@@ -166,3 +166,9 @@
     </tbody>
   </table>
 </div>
+
+<h2>My GitHub Stats</h2>
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=shaistaDev7&show_icons=true&locale=en&theme=tokyonight" alt="Shaista's GitHub Stats" width="300"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaistaDev7&theme=tokyonight" alt="Mustafa's GitHub Streak" width="250"/>
+  </p>
