@@ -8,7 +8,23 @@
 - 🌱 Actively participating in coding competitions & Gen AI hackathons.
 - 🌱 PhD candidate aiming to pursue studies in the United States to advance in the Data Science.
 - 👯 I’m looking to collaborate on Rag Based Applications and ML Research
-- 📫 Reach me on <a href="shaistazulfiqar61@gmail.com">Email</a>
+- 📫 Reach me on <a href="shaistazulfiqar65@gmail.com">Email</a>
+
+<h2><i>📚 Research Publications</i></h2>
+
+<ul>
+  <li>
+    <b>Transformer-based topic modeling for Urdu translations of the Holy Quran</b><br>
+    <i>Amna Zafar, Muhammad Wasim, <b>Shaista Zulfiqar </b>, Talha Waheed, Abubakar Siddique</i> <br>
+    📄 <a href="https://doi.org/10.1145/3694967" target="_blank">Read Paper</a>
+  </li>
+  
+  <li>
+    <b>The Evolution of Natural Language Processing: How Prompt Optimization and Language Models are Shaping the Future (Preprint)</b><br>
+    <i>Summra Saleem, Muhammad Nabeel Asim, <b>Shaista Zulfiqar</b>, Andreas Dengel</i> <br>
+    🧠 <a href="https://doi.org/10.48550/arXiv.2506.17700" target="_blank">View on arXiv</a>
+  </li>
+</ul>
 
 <h2><i>💻 Technical Skills and Tools</i></h2>
 
