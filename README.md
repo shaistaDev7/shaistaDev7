@@ -3,7 +3,9 @@
 <h2>About Me</h2>
 
 - 🔭 Currently working as an **AI Trainer, Researcher & Developer**
-- 🎓 Volunteered as a Python Instructor (Karel the Robot) for [Stanford University – Code in Place](https://www.linkedin.com/feed/update/urn:li:activity:7186485415325876225/)  
+- 🎓 Volunteered as a Python Instructor (Karel the Robot) for [Stanford University – Code in Place](https://www.linkedin.com/feed/update/urn:li:activity:7186485415325876225/)
+- 🇩🇪  Worked as a **AI Researcher** at the **German Research Centre for Artificial Intelligence (DFKI)**
+- 🏫 Taught **Computer Science** subjects at a **Government High School**  
 - 🧠 Participated in several **international Generative AI hackathons**
 - 🏆 **Winner** of the **Unhallucinate Challenge** – an international AI hackathon
 - 🧩 Solved **9/9 puzzles** in the **Harvard CS50x Puzzles Competitions** (2024 & 2025) 
