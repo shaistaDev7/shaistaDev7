@@ -2,13 +2,14 @@
 
 <h2>About Me</h2>
 
-- 🔭 currently working as an AI trainer, Researcher & Developer
-- 👨‍🏫 Offered volunteer teaching in Python with Karel at <a href="https://www.linkedin.com/feed/update/urn:li:activity:7186485415325876225/">Stanford University</a>
-- 🌱 Participated in multiple international Gen AI hackathons.
-- 🌱 Winner of an International Hackathon(Unhallucinate Challange).
-- 🌱 Delivered a webinar on the topic "How to Become a Section Leader at Stanford Code In Place" 
-- 🌱 PhD candidate aiming to pursue studies in the United States to advance in Data Science.
-- 👯 I’m looking to collaborate on Data Science-related projects and research work
+- 🔭 Currently working as an **AI Trainer, Researcher & Developer**
+- 🎓 Volunteered as a Python Instructor (Karel the Robot) for [Stanford University – Code in Place](https://www.linkedin.com/feed/update/urn:li:activity:7186485415325876225/)  
+- 🧠 Participated in several **international Generative AI hackathons**
+- 🏆 **Winner** of the **Unhallucinate Challenge** – an international AI hackathon
+- 🧩 Solved **9/9 puzzles** in the **Harvard CS50x Puzzles Competitions** (2024 & 2025) 
+- 🎤 Delivered a webinar on _"How to Become a Section Leader at Stanford Code in Place"_
+- 🎯 PhD candidate aiming to pursue studies in the **United States**, focusing on **Data Science & AI**
+- 🤝 Looking to collaborate on **Data Science**, **LLMs**, and **AI Research**
 - 📫 Reach me on <a href="shaistazulfiqar65@gmail.com">Email</a>
 
 <h2><i>📚 Research Publications</i></h2>
