@@ -2,12 +2,13 @@
 
 <h2>About Me</h2>
 
-- 🔭 currently working as AI Researcher & Developer
-- 👨‍🏫 Offers volunteer teaching in Python with Karel at <a href="https://www.linkedin.com/feed/update/urn:li:activity:7186485415325876225/">Stanford University</a>
-- 🌱 currently learning DSA with Leetcode
-- 🌱 Actively participating in coding competitions & Gen AI hackathons.
-- 🌱 PhD candidate aiming to pursue studies in the United States to advance in the Data Science.
-- 👯 I’m looking to collaborate on Rag Based Applications and ML Research
+- 🔭 currently working as an AI trainer, Researcher & Developer
+- 👨‍🏫 Offered volunteer teaching in Python with Karel at <a href="https://www.linkedin.com/feed/update/urn:li:activity:7186485415325876225/">Stanford University</a>
+- 🌱 Participated in multiple international Gen AI hackathons.
+- 🌱 Winner of an International Hackathon(Unhallucinate Challange).
+- 🌱 Delivered a webinar on the topic "How to Become a Section Leader at Stanford Code In Place" 
+- 🌱 PhD candidate aiming to pursue studies in the United States to advance in Data Science.
+- 👯 I’m looking to collaborate on Data Science-related projects and research work
 - 📫 Reach me on <a href="shaistazulfiqar65@gmail.com">Email</a>
 
 <h2><i>📚 Research Publications</i></h2>
